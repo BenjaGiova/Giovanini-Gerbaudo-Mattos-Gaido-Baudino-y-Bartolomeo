@@ -1,5 +1,138 @@
 body{
-    background: radial-gradient( #e1cc2c -50%, #000000 85%)  ;
-    background-position:55px -600px;
-    background-size: 300% 200% ;
+  background: linear-gradient(220.55deg, #ea6f84 0%, #55c0d3 100%);
+  background-attachment: fixed;
 }
+
+
+.sesion{
+  translate: 380% ;
+}
+
+
+li{
+    font-size: 150%;
+    
+}
+button{
+    font-size: 150%;
+}
+.dropdown-content{
+    font-size: 100%;
+}
+
+.log{
+    width:  5%;
+    height: 100%;
+
+}
+.logito{
+    width:  60%;
+    height: 60%;
+    
+
+}
+
+nav {
+  background-color: #00000073;
+    height: 10%;
+    width: 100%;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.725);
+  }
+  
+  nav ul li a:hover {
+    background-color: rgb(0, 0, 0);
+  }
+  
+
+
+
+
+
+nav{
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+    filter: drop-shadow(4px 6px 4px rgb(0, 0, 0));
+  }
+  
+  .dropdown-content a {
+    color: rgb(255, 0, 0);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    color: #fff;
+  }
+  
+  article{
+    border-radius: 2%;
+    background-color: rgba(0, 0, 0, 0.382);
+    translate: 0px 5px;
+    width:  100%;
+    height: 600%;
+    margin-top:2%;
+  }
+
+  .bumblebee{
+    display:flex;
+    align-items:center;
+    clip-path: inset(5% 0 5% 0);
+    border-radius: 15%;
+    width:  45%;
+    height: 95%;
+    margin-left: 2%;
+   
+  }
+
+  p{
+    margin-left: 50%;
+    margin-right: 100px;
+    margin-top: 00px;
+    margin-bottom: 0px;
+    font-size: 150%;
+
+  }
+  .par{
+    margin-top: -300px;
+    text-underline-position:auto;
+  }
+
+  video{
+    margin-left: 20% ;
+  }
+ 

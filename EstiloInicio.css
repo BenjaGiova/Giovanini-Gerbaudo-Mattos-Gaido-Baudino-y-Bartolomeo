@@ -2,7 +2,7 @@
 
 
 body{
-
+    cursor: url('/IMAGENES/219792.png'), auto;
     display: flex; background: radial-gradient( #ffa5f4 -50%, #000000 85%)  ;
     background-position:55px -600px;
     background-size: 300% 200% ;
@@ -19,8 +19,9 @@ body{
 
 .Logoinicio{
     filter: drop-shadow(1px 1px 5px rgb(255, 186, 241));
-    margin-left: -80%;
-    width: 140px;
-    height: 140px;
+    margin-left: -65%;
+    margin-top: -400px;
+    width: 60%;
+    height: 60%;
 
 }
